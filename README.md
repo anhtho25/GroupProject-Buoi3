@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# GroupProject-Buoi3Dòng này do Quỳnh chỉnh sửa
-=======
-# GroupProject-Buoi3Dòng này do Như chỉnh sửa
->>>>>>> feature-nhu
+
+Dòng do Quỳnh sửa
+
+Dòng do Như sửa
+
+Cả hai bạn Như và Quỳnh đều chỉnh phần này để hoàn thiện nội dung.
