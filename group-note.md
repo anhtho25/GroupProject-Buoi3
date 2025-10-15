@@ -1,5 +1,5 @@
 ## Ghi chú nhóm
 
 - Nguyễn Trần Anh Thơ
-- (Thêm tên thành viên khác ở đây)
+- Ghi chú của Như: Hoàn thành phần chỉnh sửa cá nhân.
 
