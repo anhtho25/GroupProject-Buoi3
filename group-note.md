@@ -1,6 +1,5 @@
-# \- Anh Tho: Hoàn thành phần shared-anhtho.txt
+## Ghi chú nhóm
 
-# \- Quỳnh: Hoàn thành phần shared-quynh.txt
-
-# \- Như: Hoàn thành phần shared-nhu.txt
+- Nguyễn Trần Anh Thơ
+- (Thêm tên thành viên khác ở đây)
 
